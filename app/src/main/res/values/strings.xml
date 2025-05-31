@@ -1,0 +1,13 @@
+<resources>
+        <string name="app_name">FoodOrderApp</string>
+        <string name="menu_title">Daftar Menu</string>
+        <string name="hint_name">Nama Menu</string>
+        <string name="hint_price">Harga (Rp)</string>
+        <string name="hint_menu_name">Nama Menu</string>
+        <string name="hint_menu_price">Harga</string>
+        <string name="menu_price">Rp %1$d</string>
+
+
+
+
+</resources>
